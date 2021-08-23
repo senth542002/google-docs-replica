@@ -1,0 +1,4 @@
+./server/node_modules
+./server/.env
+
+./ui-client/node_modules
